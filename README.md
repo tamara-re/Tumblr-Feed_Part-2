@@ -4,32 +4,16 @@ Submitted by: **Tamara Regalado Quiroz**
 
 **Tumblr Blog** is an app that is an app that displays tumblr blogs at the palm of your hands
 
-Time spent: 14 hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
+##  Features
 
 - [x] Setup navigation to the Detail Screen
 - [x] Created the Detail View UI
 - [x] Add the ability to pass data to the Detail View Controller
 - [x] Made personal finishing touches to the UI
 
-
-The following **additional** features are implemented:
-
-- [x] List anything else that you can get done to improve the app functionality!
-    I think I can try and add more personalizations and decorations to the detail view, however it would take much longer
-
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
 <img src="./kapture_proj6.gif" title="Video Walkthrough" width='' alt="Video Walkthrough" />
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
