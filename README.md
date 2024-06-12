@@ -5,7 +5,8 @@ Submitted by: **Tamara Regalado Quiroz**
 **Tumblr Blog** is an app that is an app that displays tumblr blogs at the palm of your hands
 
 ##  Features
-
+- [x] App has a configured table view and table view call
+- [x] App populates the table view with data fetched from an API
 - [x] Setup navigation to the Detail Screen
 - [x] Created the Detail View UI
 - [x] Add the ability to pass data to the Detail View Controller
